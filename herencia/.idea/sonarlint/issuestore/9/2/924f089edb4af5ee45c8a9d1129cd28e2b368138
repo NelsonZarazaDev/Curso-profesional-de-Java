@@ -1,0 +1,8 @@
+
+]
+java:S1854	";Remove this useless assignment to local variable "persona".(Éïöûÿÿÿÿ8¡¥æ½Ö1
+N
+java:S1481	",Remove this unused "persona" local variable.(Éïöûÿÿÿÿ8£¥æ½Ö1
+L	java:S106"+Replace this use of System.out by a logger.(¡³¨Œøÿÿÿÿ8¦¥æ½Ö1
+F	java:S106"+Replace this use of System.out by a logger.(§µ‰	8§¥æ½Ö1
+L	java:S106"+Replace this use of System.out by a logger.(°³Ë·úÿÿÿÿ8¨¥æ½Ö1
